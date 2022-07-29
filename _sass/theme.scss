@@ -140,8 +140,9 @@ footer {
 */
 
 #main_content, #disqus_container {
-  width: 70%;
+  width: 90%;
   margin-bottom: 0px !important;
+  margin-left: -200px;
   float: left;
   -webkit-font-smoothing: antialiased;
 }
