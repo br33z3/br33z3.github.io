@@ -1,5 +1,5 @@
 ---
-layout: cp_toplevel
+layout: default
 ---
 
 <details>
