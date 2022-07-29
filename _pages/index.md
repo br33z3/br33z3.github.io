@@ -8,7 +8,8 @@ layout: default
 3+ year experienced offensive cyber security specialist, holding OSCP, eWPTXv2, CRTP, OSWP and TSE certificates. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries.
 </p>
 <p>
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Berk was selected to speak under the topic of Finding Hidden Gems in Temporary mail services in Recon Village at <strong>DEFCON 30</strong>.
+Currently, he is a full-time consultant and tries bug bounty as a hobby.
 </p>
 <br /><br /><br />
 
