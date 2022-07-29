@@ -3,7 +3,7 @@ layout: default
 ---
 # whoami
 
-<img align="right" src="https://avatars.githubusercontent.com/u/31792851?v=4">
+<img align="right" style="margin:10px" src="https://avatars.githubusercontent.com/u/31792851?v=4">
 <p>
 9 year experienced offensive cyber security specialist, lecturer and instructor holding OSCP, OSWE and CEH certificates. At his first job, worked 4 years on Deloitte Turkey as consultant and participated as technical lead and second level customer relations management responsible of the cyber security operations team. In this time period, involved with 200 different on-field or remote security projects to the both multinational and domestic companies belong to various industries. After that, started working independent as bug bounty hunter & offensive security consultant on-demand. Reported over 2000 critical & high & medium level vulnerabilities to the various platforms, conducted long/short term consultancy jobs individually and participated trainings as instructor on the subjects of offensive security. Currently holding on top 3 rank at all time statistics at Synack in terms of both most accepted vulnerabilities/earned payouts. One of the top bug hunter performers who passed 1 million $ milestone for all time earnings among all over the world. Have awards and championships as SRT Grand Champion 2019|2020|2021, Most Trusted Hacker 2021, SRT of the Year 2021 and Mentor of the Year 2022 from Synack. Hold part-time lectures at two prestigious university in Istanbul, in the subjects of Introduction to Cyber Security and Web Application Hacking.
 </p>
