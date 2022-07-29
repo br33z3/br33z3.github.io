@@ -8,8 +8,8 @@ layout: default
 3+ year experienced offensive cyber security specialist, holding OSCP, eWPTXv2, CRTP, OSWP and TSE certificates. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries.
 </p>
 <p>
-Berk was selected to speak under the topic of Finding Hidden Gems in Temporary mail services in Recon Village at <strong>DEFCON 30</strong>.
-Currently, he is a full-time consultant and tries bug bounty as a hobby.
+Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 30</strong>.
+Currently, he is a full-time consultant and bug bounty hunter.
 </p>
 <br /><br /><br />
 
