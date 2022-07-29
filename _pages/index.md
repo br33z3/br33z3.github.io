@@ -7,19 +7,10 @@ layout: default
 <p>
 3+ year experienced offensive cyber security specialist, holding OSCP, eWPTXv2, CRTP, OSWP and TSE certificates. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries.
 </p>
+<p>
+it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</p>
 
-
-
-
-
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./writeups.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
