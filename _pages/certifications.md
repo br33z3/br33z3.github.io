@@ -1,5 +1,5 @@
 ---
-layout: blog_toplevel
+layout: cp_toplevel
 ---
 
 <details>
