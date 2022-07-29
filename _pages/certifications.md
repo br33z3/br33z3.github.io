@@ -1,3 +1,7 @@
+---
+layout: blog_toplevel
+---
+
 <details>
 <summary>Heading</summary>
 <ul>
