@@ -32,12 +32,12 @@ References;<br />
 
 ## Bug Bounty
 
-| Thanks Received |
-|:----------------|
+| Thanks Received   |
+|:------------------|
 | AT&T              | 
-| Starbucks    |
-| Clario       |
-| Omise           |
+| Starbucks         |
+| Clario            |
+| Omise             |
 
 ### Disclosed Reports
 
