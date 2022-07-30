@@ -18,7 +18,7 @@ Currently, he is a full-time consultant and bug bounty hunter.
 <span style="color:DodgerBlue">**OSWP**</span><br />
 <span style="color:Purple">**eWPTXv2**</span><br />
 <span style="color:Red">**CRTP**</span><br />
-<span style="color:LightGray">**TSE**</span>.
+<span style="color:LightGray">**TSE**</span><br />
 
 
 ### Header 3
