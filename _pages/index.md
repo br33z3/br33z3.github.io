@@ -39,7 +39,9 @@ References;<br />
 | Clario       |
 | Omise           |
 
+### Disclosed Reports
 
+*   [https://hackerone.com/reports/1066410](https://hackerone.com/reports/1066410)
 
 
 
