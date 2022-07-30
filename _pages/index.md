@@ -14,7 +14,14 @@ Currently, he is a full-time consultant and bug bounty hunter.
 <br /><br /><br /><br /><br />
 
 ## Certifications
-<span style="color:blue">some *blue* text</span>.
+<span style="color:Tomato">some *OSCP* text</span>.
+<span style="color:Orange">some *OSCP* text</span>.
+<span style="color:DodgerBlue">some *OSCP* text</span>.
+<span style="color:MediumSeaGreen">some *OSCP* text</span>.
+<span style="color:Gray">some *OSCP* text</span>.
+<span style="color:SlateBlue">some *OSCP* text</span>.
+<span style="color:Violet">some *OSCP* text</span>.
+<span style="color:LightGray">some *OSCP* text</span>.
 
 > This is a blockquote following a header.
 >
