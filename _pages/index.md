@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# whoami
+# whoami - Berk Can Geyikçi
 
 <img align="right" style="margin:20px" width="391px" height="391px" src="https://avatars.githubusercontent.com/u/31792851?v=4">
 <p>
-3+ year experienced offensive cyber security specialist, holding OSCP, eWPTXv2, CRTP, OSWP and TSE certificates. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries.
+3+ year experienced offensive cyber security specialist. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries. After that, Berk worked in Turkey's biggest ISP company called Turk Telecom A.S.  
 </p>
 <p>
 Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 30</strong>.
@@ -13,11 +13,8 @@ Currently, he is a full-time consultant and bug bounty hunter.
 </p>
 <br /><br /><br /><br /><br />
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Certifications
+<span style="color:blue">some *blue* text</span>.
 
 > This is a blockquote following a header.
 >
