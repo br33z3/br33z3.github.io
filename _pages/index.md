@@ -23,9 +23,9 @@ Currently, he is a full-time consultant and bug bounty hunter.
 
 ## CWE
 
-CVE 2021-41570
-Company: Veritas
-References;
+CWE 2021-41570<br />
+Company: Veritas<br />
+References;<br />
 *  	[https://www.veritas.com/content/support/en_US/security/VTS22-007](https://www.veritas.com/content/support/en_US/security/VTS22-007)
 *   [https://nvd.nist.gov/vuln/detail/CVE-2021-41570](https://nvd.nist.gov/vuln/detail/CVE-2021-41570)
 *   [https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-41570](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-41570)
