@@ -14,11 +14,11 @@ Currently, he is a full-time consultant and bug bounty hunter.
 <br /><br /><br /><br /><br />
 
 ## Certifications
-*      <span style="color:DarkOrange; font-size: 20px">**OSCP**</span><br />
-*      <span style="color:Blue; font-size: 20px">**OSWP**</span><br />
-*      <span style="color:DarkViolet; font-size: 20px">**eWPTXv2**</span><br />
-*      <span style="color:Red; font-size: 20px">**CRTP**</span><br />
-*      <span style="color:LightGray; font-size: 20px">**TSE**</span><br />
+*      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP**</span><br />
+*      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP**</span><br />
+*      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2**</span><br />
+*      &nbsp;<span style="color:Red; font-size: 20px">**CRTP**</span><br />
+*      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE**</span><br />
 
 
 ### Header 3
