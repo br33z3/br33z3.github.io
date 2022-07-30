@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-<a href="mailto:gberkcan@hotmail.com"></a>
+        <script type="text/javascript">
+            window.location.href = "mailto:gberkcan@hotmail.com"
+        </script>
