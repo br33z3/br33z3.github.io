@@ -14,10 +14,10 @@ Currently, he is a full-time consultant and bug bounty hunter.
 <br /><br /><br /><br /><br />
 
 ## Certifications
-*      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP**</span><br />
-*      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP**</span><br />
-*      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2**</span><br />
-*      &nbsp;<span style="color:Red; font-size: 20px">**CRTP**</span><br />
+*      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
+*      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
+*      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2** - eLearnSecurity Web application Penetration Tester eXtreme</span><br />
+*      &nbsp;<span style="color:Red; font-size: 20px">**CRTP** - Certified Red Team Professional</span><br />
 *      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE**</span><br />
 
 
