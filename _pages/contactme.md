@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-asd
+<a href="mailto:gberkcan@hotmail.com"></a>
