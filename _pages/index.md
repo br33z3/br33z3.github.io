@@ -30,6 +30,15 @@ References;<br />
 *   [https://nvd.nist.gov/vuln/detail/CVE-2021-41570](https://nvd.nist.gov/vuln/detail/CVE-2021-41570)
 *   [https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-41570](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-41570)
 
+## Bug Bounty
+
+| Thanks Received |
+|:----------------|
+| AT&T              | 
+| Starbucks    |
+| Clario       |
+| Omise           |
+
 
 
 
