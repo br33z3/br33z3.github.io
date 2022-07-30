@@ -1,4 +1,4 @@
 ---
-layout: blog_toplevel
+layout: default
 ---
 asd
