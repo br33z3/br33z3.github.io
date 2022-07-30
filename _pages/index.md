@@ -16,7 +16,7 @@ Currently, he is a full-time consultant and bug bounty hunter.
 ## Certifications
 <span style="color:Orange; font-size: 20px">**OSCP**</span><br />
 <span style="color:DodgerBlue">**OSWP**</span><br />
-<span style="color:Purple">**eWPTXv2**</span><br />
+<span style="color:LightPurple">**eWPTXv2**</span><br />
 <span style="color:Red">**CRTP**</span><br />
 <span style="color:LightGray">**TSE**</span><br />
 
