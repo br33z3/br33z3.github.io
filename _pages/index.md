@@ -18,7 +18,7 @@ Currently, he is a full-time consultant and bug bounty hunter.
 *      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
 *      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2** - Web application Penetration Tester eXtreme</span><br />
 *      &nbsp;<span style="color:Red; font-size: 20px">**CRTP** - Certified Red Team Professional</span><br />
-*      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - Turkish Standards Institution Penetration Test Specialist</span><br />
+*      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - TSE Penetration Test Specialist</span><br />
 
 
 ### Header 3
