@@ -13,6 +13,8 @@ Currently, he is a full-time consultant and bug bounty hunter.
 </p>
 <br /><br /><br /><br />
 
+<meta name="google-site-verification" content="niviqyVs9FcPS97Y43BZWJGIXOWLRKfnGFa_U6klJSA" />
+
 ## Certifications
 *      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
 *      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
