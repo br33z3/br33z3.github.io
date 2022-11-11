@@ -48,5 +48,5 @@ References;<br />
 
 ### Usefull Links
 
-*   [[https://hackerone.com/reports/1066410]([https://hackerone.com](https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg)](https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg)
+*   [https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg](https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg)
 
