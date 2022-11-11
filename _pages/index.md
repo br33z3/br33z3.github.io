@@ -48,5 +48,5 @@ References;<br />
 
 ### Usefull Links
 
-*   [https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg](https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg) = from orange-cyberdefense
-
+*   [https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg](https://br33z3.github.io/assets/images/AD_Pentest_MindMap.svg)
+<br />*Published By orange-cyberdefense*
