@@ -9,7 +9,7 @@ layout: default
 </p>
 <p>
 Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 30</strong>.
-Currently, he is a full-time consultant and bug bounty hunter.
+Currently, he is a full-time consultant and doing bug bounty hunter as a Synack Red Team Member.
 </p>
 <br /><br /><br /><br />
 
@@ -18,8 +18,9 @@ Currently, he is a full-time consultant and bug bounty hunter.
 *      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
 *      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
 *      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2** - Web application Penetration Tester eXtreme</span><br />
+*      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eMAPT** - Mobile Application Penetration Tester</span><br />
 *      &nbsp;<span style="color:Red; font-size: 20px">**CRTP** - Certified Red Team Professional</span><br />
-*      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - TSE Penetration Test Specialist</span><br />
+*      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - TSE Senior Penetration Testing Specialist</span><br />
 <br /><br />
 
 ## CWE
