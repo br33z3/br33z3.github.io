@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Red Team Field Manual
-tags: 
+tags: RedTeam, ActiveDirectory
 comments: true
 date: 2022-12-10
 ---
