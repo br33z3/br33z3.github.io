@@ -10,5 +10,9 @@ date: 2022-12-10
 <br />
 ### Create Local User And Add To Administrators Group
     net user <Username> <Password> /add>
+    <br />
     net localgroup Administrators <Username> /add   
   
+### List Users In Active Directory
+
+    net users /domain
