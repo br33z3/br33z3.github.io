@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Test
-tags: test 1234
+title: Red Team Field Manual
+tags: 
 comments: true
-date: 2020-10-30
+date: 2022-12-10
 ---
 
 # Test blog
