@@ -46,7 +46,10 @@ date: 2022-12-10
 ### Impacket secretsdump - DUMP Local User Hashes via Local User Hash
 
     python3 secretsdump.py <Computer_Hostname>/<Local Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
-    
+
+### Find Domain Controller In BlackBox Testing
+
+    nmap -p389,636 --open -iL <IP_List_File> - 389(LDAP) / 636(LDAP-SSL)
     
     
     
