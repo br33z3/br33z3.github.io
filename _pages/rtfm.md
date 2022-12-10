@@ -8,9 +8,9 @@ date: 2022-12-10
 
 # Red Team Field Manual
 <br />
-## Create Local User For Windows From CMD
+### Create Local User For Windows From CMD
 
 
-<pre><code> net user <Username> <Password> /add> </code></pre>
-
-
+    net user <Username> <Password> /add>
+    
+  
