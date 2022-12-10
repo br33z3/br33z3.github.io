@@ -18,8 +18,9 @@ Currently, he is a full-time consultant and doing bug bounty hunter as a Synack 
 *      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
 *      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
 *      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2** - Web application Penetration Tester eXtreme</span><br />
-*      &nbsp;<span style="color:fuchsia; font-size: 20px">**eMAPT** - Mobile Application Penetration Tester</span><br />
 *      &nbsp;<span style="color:Red; font-size: 20px">**CRTP** - Certified Red Team Professional</span><br />
+*      &nbsp;<span style="color:fuchsia; font-size: 20px">**eMAPT** - Mobile Application Penetration Tester</span><br />
+*      &nbsp;<span style="color:aqua; font-size: 20px">**CLF-C01** - AWS Certified Cloud Practitioner</span><br />
 *      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - TSE Senior Penetration Testing Specialist</span><br />
 <br /><br />
 
