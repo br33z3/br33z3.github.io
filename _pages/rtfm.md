@@ -54,6 +54,7 @@ date: 2022-12-10
 ### Crackmapexec Local Administrator Brute Force Attack
 
     crackmapexec smb <IP List File> -u Administrator -p <Password List File> -d .
+
 [Own Password Brute Force List](https://raw.githubusercontent.com/br33z3/br33z3.github.io/main/assets/static/pass.txt?token=GHSAT0AAAAAAB37NOOAHHDWHN56W2G3SUGYY4U5GNQ)
     
     
