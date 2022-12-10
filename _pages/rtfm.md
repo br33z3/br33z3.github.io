@@ -7,11 +7,10 @@ date: 2022-12-10
 ---
 
 # Red Team Field Manual
-
+<br />
 ## Create Local User For Windows From CMD
 
-    This is a blog post for testing purposes.
+
+<pre><code> net user <Username> <Password> /add> </code></pre>
 
 
-
-<pre><code>This is a blog post for testing purposes.</code></pre>
