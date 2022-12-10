@@ -16,3 +16,11 @@ date: 2022-12-10
 ### List Users In Active Directory
 
     net users /domain
+
+### Enable RDP From Regedit
+
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+
+### Disable RDP From Regedit
+
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 1 /f
