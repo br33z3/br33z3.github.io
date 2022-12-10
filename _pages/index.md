@@ -9,7 +9,7 @@ layout: default
 </p>
 <p>
 Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 30</strong>.
-Currently, he is a full-time consultant and doing bug bounty hunter as a Synack Red Team Member.
+Currently, he is a full-time consultant and working as a bounty hunter in Synack Red Team.
 </p>
 <br /><br /><br /><br />
 
