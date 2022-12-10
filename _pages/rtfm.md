@@ -8,9 +8,7 @@ date: 2022-12-10
 
 # Red Team Field Manual
 <br />
-### Create Local User For Windows From CMD
-
-
+### Create Local User And Add To Administrators Group
     net user <Username> <Password> /add>
-    
+    net localgroup Administrators <Username> /add   
   
