@@ -54,6 +54,8 @@ date: 2022-12-10
     -> If you have a domain joined Windows Machine
     nslookup -querytype=SRV _LDAP._TCP.DC._MSDCS.<domain_name>
     
+    nltest /server:<IP> /dclist:<domain_name>
+    
     (From PS) [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain().DomainControllers
     
 ### Crackmapexec Local Administrator Brute Force Attack
