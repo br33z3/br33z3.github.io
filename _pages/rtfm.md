@@ -51,6 +51,11 @@ date: 2022-12-10
 
     nmap -p389,636 --open -iL <IP_List_File>  #389(LDAP) / 636(LDAP-SSL)
     
+    -> If you have a domain joined Windows Machine
+    nslookup -querytype=SRV _LDAP._TCP.DC._MSDCS.<domain_name>
+    
+    (From PS) [System.DirectoryServices.ActiveDirectory.Domain]::GetCurrentDomain().DomainControllers
+    
 ### Crackmapexec Local Administrator Brute Force Attack
 
     crackmapexec smb <IP List File> -u Administrator -p <Password List File> -d .
