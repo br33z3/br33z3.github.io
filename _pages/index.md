@@ -24,9 +24,9 @@ Currently, he is a full-time consultant and working as a bounty hunter in Synack
 *      &nbsp;<span style="color:LightGray; font-size: 20px">**TSE** - TSE Senior Penetration Testing Specialist</span><br />
 <br /><br />
 
-## CWE
+## CVE
 
-CWE 2021-41570<br />
+CVE 2021-41570<br />
 Company: Veritas<br />
 References;<br />
 *  	[https://www.veritas.com/content/support/en_US/security/VTS22-007](https://www.veritas.com/content/support/en_US/security/VTS22-007)
