@@ -49,3 +49,6 @@ date: 2022-12-10
 | (                 | /28 | Escaped automatically.                                                                                                |
 | )                 | /29 | Escaped automatically.                                                                                                |
 | /                 | /2f | Escaped automatically.                                                                                                |
+
+### Filter Example AD User
+    Get-ADUser -Filter "name -like 'Frede*'"
