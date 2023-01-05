@@ -10,5 +10,8 @@ date: 2022-12-10
 
 ### PowerShell - Filter Installed Software
 
-
     Get-CimInstance Win32_Product | fl
+    
+### PowerShell - Filter Out Microsoft Software
+
+    Get-CimInstance Win32_Product -Filter "NOT Vendor like '%Microsoft%'  "| fl
