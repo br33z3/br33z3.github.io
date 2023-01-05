@@ -68,4 +68,6 @@ date: 2022-12-10
 
     Get-ADGroup -Filter *
 
-    
+### Find Users In Spesific Domain Group
+
+    net group "<Group_Name>" /domain
