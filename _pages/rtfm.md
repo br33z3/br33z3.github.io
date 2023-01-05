@@ -64,5 +64,8 @@ date: 2022-12-10
 
 [My Own Password Brute Force List](https://github.com/br33z3/br33z3.github.io/blob/main/assets/static/pass.txt)
     
-    
+### Find All Domain Groups
+
+    Get-ADGroup -Filter *
+
     
