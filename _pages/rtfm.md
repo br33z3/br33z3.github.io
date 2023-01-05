@@ -71,3 +71,11 @@ date: 2022-12-10
 ### Find Users In Spesific Domain Group
 
     net group "<Group_Name>" /domain
+
+### Find Disabled Users In Domain
+
+    dsquery user "DC=...,DC=..." -disabled
+    
+### Find How Many Users Exist In Domain
+
+    dsquery user "DC=...,DC=..." -limit 0| Measure-Object
