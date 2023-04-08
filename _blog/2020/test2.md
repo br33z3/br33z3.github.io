@@ -1,22 +1,22 @@
 ---
 layout: blog
-title: "Advanced Usage of Havoc C2 Framework"
-tags: test 1234
+title: "Havoc C2 Framework: A Comprehensive Guide for Red Teamers"
+tags: C2 Redteaming
 comments: true
 date: 2022-10-30
 ---
 
-# Advanced Usage of Havoc C2 Framework
+# Havoc C2 Framework: A Comprehensive Guide for Red Teamers
 
-Havoc is a cross-platform command and control (C2) framework that provides a wide range of features and functionalities for red teamers and penetration testers. This blog post will cover advanced usage of the Havoc C2 framework, exploring features that will help you in your offensive security activities.
+Havoc is a versatile command and control (C2) framework designed to facilitate red teaming activities and enhance penetration testing capabilities. In this blog post, we will provide a comprehensive overview of the Havoc C2 framework and explore its features, installation process, and usage.
 
 ## Table of Contents
 1. [Introduction to Havoc](#introduction-to-havoc)
 2. [Installation and Setup](#installation-and-setup)
-3. [Creating Custom Havoc Profiles](#creating-custom-havoc-profiles)
-4. [Third-Party Integrations](#third-party-integrations)
-5. [Using External C2 Channels](#using-external-c2-channels)
-6. [Advanced Task Execution](#advanced-task-execution)
+3. [Working with Listeners](#working-with-listeners)
+4. [Creating Payloads](#creating-payloads)
+5. [Running Tasks](#running-tasks)
+6. [Customization and Extensibility](#customization-and-extensibility)
 7. [Conclusion](#conclusion)
 
 ## Introduction to Havoc
@@ -41,3 +41,6 @@ To get started with Havoc, you'll need to clone the repository and follow the in
 git clone https://github.com/havoc-c2/Havoc.git
 cd Havoc
 ./setup.sh
+```
+
+
