@@ -81,6 +81,29 @@ Covenant offers a range of built-in tasks for performing reconnaissance, lateral
 
 To achieve this, you can use the "Task" tab in the web interface to create and manage custom tasks. You can also chain tasks together using the "Taskings" feature, which allows you to execute multiple tasks in a specific order, based on conditions or the output of previous tasks.
 
-## Conclusion
 
-Covenant is a powerful and versatile C2 framework that offers a wide array of advanced features for red teamers and penetration testers. By mastering these advanced features, you can improve your operational efficiency, increase your ability to evade detection, and ultimately achieve your objectives during offensive security engagements.
+## Example Listener and Payload Creation, and Exploitation
+
+In this section, we'll walk through the process of creating a listener, generating a payload, and performing exploitation using Covenant.
+
+### Creating a Listener
+
+1. In the Covenant web interface, navigate to the "Listeners" tab and click the "Create" button.
+2. Choose a listener type (e.g., HTTP, Bridge) and provide the required configuration settings, such as listener alias, connect addresses, bind port, and SSL certificate information.
+3. Click the "Create" button to start the listener.
+
+### Generating a Payload
+
+1. After creating the listener, navigate to the "Launchers" tab.
+2. Select a launcher type (e.g., PowerShell, Binary, MSBuild) and choose the listener you created earlier.
+3. Configure the launcher settings, such as target architecture and custom Grunt profile, if needed.
+4. Click the "Generate" button to create the payload. Copy the generated launcher code or download the binary.
+
+### Exploitation
+
+1. Deliver the payload to the target system using your preferred method (e.g., social engineering, exploiting a vulnerability, or phishing).
+2. Once the payload is executed on the target system, a new Grunt will appear in the "Grunts" tab of the Covenant web interface.
+3. Interact with the Grunt by clicking on its name and issuing tasks or commands to gather information, perform lateral movement, or execute post-exploitation activities.
+
+By following these steps, you can create a listener, generate a payload, and perform exploitation using the Covenant C2 framework. Experiment with different listener types, payload formats, and tasks to develop a deeper understanding of Covenant's advanced capabilities.
+
