@@ -2,11 +2,9 @@
 layout: default
 ---
 
-<h1>Blog</h1>
-
 {{ content }}
 
-<h1>Posts</h1>
+<h1>Blog Posts</h1>
 {% assign postsByYear = site.blog | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 {{ year.name }}
