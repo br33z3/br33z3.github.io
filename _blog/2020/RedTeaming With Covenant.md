@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "C2 Frameworks For RedTeaming"
+title: "Advanced Usage of Covenant C2 Framework"
 tags: redteaming c2
 comments: true
 date: 2023-04-08
