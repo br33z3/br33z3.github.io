@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Test
-tags: test 1234
+tags: redteaming activedirectory
 comments: true
 date: 2020-10-30
 ---
