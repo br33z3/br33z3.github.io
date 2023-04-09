@@ -28,6 +28,7 @@ mimikatz.exe privilege::debug sekurlsa::logonpasswords
 ```
 
 <br/>
+<br/>
 2.**Use the captured hash for authentication**: Once the password hash is obtained, the attacker can use it to authenticate to network resources. Tools like PsExec or CrackMapExec can be used to perform PtH attacks.
 
 ### For Kali Linux/Linux
