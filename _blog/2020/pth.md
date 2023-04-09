@@ -23,7 +23,6 @@ Here is a step-by-step guide to performing a PtH attack, including the tools and
 1. **Capture the password hash**: The first step is to obtain the target user's password hash. This can be done using various methods, such as dumping hashes from the Security Account Manager (SAM) database or extracting hashes from a system's memory using tools like Mimikatz.
 
 Example command using Mimikatz:
-
 ```bash
 mimikatz.exe privilege::debug sekurlsa::logonpasswords
 ```
