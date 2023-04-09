@@ -24,7 +24,8 @@ Here is a step-by-step guide to performing a PtH attack, including the tools and
 
 Example command using Mimikatz:
 ```bash
-mimikatz.exe privilege::debug sekurlsa::logonpasswords```
+mimikatz.exe privilege::debug sekurlsa::logonpasswords
+```
 
 <br/>
 2. **Use the captured hash for authentication**: Once the password hash is obtained, the attacker can use it to authenticate to network resources. Tools like PsExec or CrackMapExec can be used to perform PtH attacks.
