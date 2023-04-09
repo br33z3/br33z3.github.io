@@ -18,7 +18,7 @@ In a PtH attack, the attacker captures a user's password hash and uses it to aut
 
 ## How to Perform a Pass-the-Hash Attack
 
-Here is a step-by-step guide to performing a PtH attack, including the tools and commands necessary:
+Here is a step-by-step guide to performing a PtH attack, including the tools and commands:
 
 1. **Capture the password hash**: The first step is to obtain the target user's password hash. This can be done using various methods, such as dumping hashes from the Security Account Manager (SAM) database or extracting hashes from a system's memory using tools like Mimikatz.
 
@@ -27,6 +27,8 @@ Example command using Mimikatz:
 ```bash
 mimikatz.exe privilege::debug sekurlsa::logonpasswords
 ```
+
+
 
 2. **Use the captured hash for authentication**: Once the password hash is obtained, the attacker can use it to authenticate to network resources. Tools like PsExec or CrackMapExec can be used to perform PtH attacks.
 
