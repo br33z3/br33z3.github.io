@@ -15,11 +15,12 @@ Pass-the-Hash (PtH) is a well-known attack technique that targets Windows authen
 Windows systems primarily use two types of authentication protocols: NTLM (NT LAN Manager) and Kerberos. Both protocols store password hashes, which are fixed-length representations of a user's password. When a user logs in, Windows checks the entered password's hash against the stored hash. If they match, the user is granted access.
 
 In a PtH attack, the attacker captures a user's password hash and uses it to authenticate to network resources as the targeted user, without needing to know the plain-text password. This allows the attacker to bypass many security controls and gain unauthorized access to sensitive data.
-
+<br/>
 ## How to Perform a Pass-the-Hash Attack
 
 Here is a step-by-step guide to performing a PtH attack, including the tools and commands:
 
+<br/>
 1. **Capture the password hash**: The first step is to obtain the target user's password hash. This can be done using various methods, such as dumping hashes from the Security Account Manager (SAM) database or extracting hashes from a system's memory using tools like Mimikatz.
 
 Example command using Mimikatz:
@@ -29,7 +30,7 @@ mimikatz.exe privilege::debug sekurlsa::logonpasswords
 ```
 
 
-
+<br/>
 2. **Use the captured hash for authentication**: Once the password hash is obtained, the attacker can use it to authenticate to network resources. Tools like PsExec or CrackMapExec can be used to perform PtH attacks.
 
 ### For Kali Linux/Linux
