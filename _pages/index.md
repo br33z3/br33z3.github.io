@@ -15,7 +15,10 @@ Currently, he is a full-time consultant and working as a bounty hunter in Synack
 
 
 ## Certifications
-*      &nbsp;<span style="color:DarkOrange; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
+*      &nbsp;<span style="color:white; font-size: 20px">**CREST CRT** - eLearnSecurity Certified Penetration Tester eXtreme</span><br />
+*      &nbsp;<span style="color:silver; font-size: 20px">**CREST CPSA** - eLearnSecurity Certified Penetration Tester eXtreme</span><br />
+*      &nbsp;<span style="color:maroon; font-size: 20px">**eCPTXv2** - eLearnSecurity Certified Penetration Tester eXtreme</span><br />
+*      &nbsp;<span style="color:lime; font-size: 20px">**OSCP** - Offensive Security Certified Professional</span><br />
 *      &nbsp;<span style="color:Blue; font-size: 20px">**OSWP** - Offensive Security Wireless Professional</span><br />
 *      &nbsp;<span style="color:DarkViolet; font-size: 20px">**eWPTXv2** - Web application Penetration Tester eXtreme</span><br />
 *      &nbsp;<span style="color:Red; font-size: 20px">**CRTP** - Certified Red Team Professional</span><br />
