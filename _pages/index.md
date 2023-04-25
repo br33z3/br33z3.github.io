@@ -15,6 +15,7 @@ Currently, he is a full-time consultant and working as a bounty hunter in Synack
 
 
 ## Certifications
+*      &nbsp;<span style="color:00FFFF; font-size: 20px">**OSWE** - Offensive Security Web Expert</span><br />
 *      &nbsp;<span style="color:white; font-size: 20px">**CREST CRT** - CREST Registered Penetration Tester</span><br />
 *      &nbsp;<span style="color:silver; font-size: 20px">**CREST CPSA** - CREST Practitioner Security Analyst</span><br />
 *      &nbsp;<span style="color:maroon; font-size: 20px">**eCPTXv2** - eLearnSecurity Certified Penetration Tester eXtreme</span><br />
