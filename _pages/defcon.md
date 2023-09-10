@@ -1,4 +1,4 @@
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/bbf4f6d6-2c10-45f5-a508-b970447c62ac)![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/a81c33a5-2cb9-41e2-ad46-7851909d9aa7)---
+---
 layout: blog
 title: DEFCON31 - Hidden Gems In Temporary Mail Services
 tags: Defcon, Recon, TempMail
