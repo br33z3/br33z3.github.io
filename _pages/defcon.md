@@ -58,5 +58,39 @@ Then I want to dig deep about the situation and started my research.
 In my research, I realized that people use these e-mail addresses as business e-mails addition to that personal
 Spotify, Netflix, Facebook, Twitter, Instagram, Youtube, Amazon, Aliexpress, Discord, AT&T, Grammarly, Tiktok, Onlyfans, BTC, accounts even Porn Accounts and lots of public IP informations, Patient Recordsand many many more…
 
+While conducting my research, I noticed marketing emails from numerous Viagra sellers and dating apps. Additionally, there were emails from pornographic sites.
+
+Also, in pornographic emails, the IP address from which a user logged in can be leaked.
+
+So I hope that the users who use Temp Mail Services in their private life also use VPNs.
+
+## Examples
+
+Spotify and Steam Account Example
+------
+
+Random Example. Dance Class Training Application.
+
+I just saw an email inside YOPMail and its about Dance Class Training, when I reset the password and enter the account, I realized
+Almost everyone who has an account inside this application use YOPMail.
+
+There is a location about the class, cost information, history about dance class.
+
+THERE ARE MANY APPLICATION, THAT I HEARD THE NAMES FIRST TIME. AND I BELIEVE ITS increasing day by day.
+------
+Booking Class information,
+
+Studio information,
+
+Credit Card information. There is a saved credit card inside the account
+----
+Another examples about Kanoopayy, Temu accounts..
+Also as you can see someone uses kanopays, and inside the mail they inform the user about cash card reserve account.
+
+And temu is a shopping website.
+----
+
+
+
 
 
