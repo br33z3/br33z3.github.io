@@ -3,7 +3,7 @@ layout: default
 ---
 # whoami - Berk Can Geyikci
 <head><meta name="google-site-verification" content="niviqyVs9FcPS97Y43BZWJGIXOWLRKfnGFa_U6klJSA" /></head>
-<img align="right" style="margin:20px" width="500px" height="400px" src="https://raw.githubusercontent.com/br33z3/br33z3.github.io/main/assets/images/pp.jpg?token=GHSAT0AAAAAACHIDACLE3ZKI2X2T2QX7CYMZH6H22Q">
+<img align="right" style="margin:20px" width="550px" height="400px" src="https://raw.githubusercontent.com/br33z3/br33z3.github.io/main/assets/images/pp.jpg?token=GHSAT0AAAAAACHIDACLE3ZKI2X2T2QX7CYMZH6H22Q">
 <p>
 4+ year experienced offensive cyber security specialist. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries. After that, Berk worked in Turkey's biggest ISP company called Turk Telecom A.S.  
 </p>
