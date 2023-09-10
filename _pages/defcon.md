@@ -53,6 +53,10 @@ Then I want to dig deep about the situation and started my research.
 - Yopmail (https://yopmail.com/)
 - Dispostable (https://www.dispostable.com/inbox/)
 
+## What Are These Gems
+
+In my research, I realized that people use these e-mail addresses as business e-mails addition to that personal
+Spotify, Netflix, Facebook, Twitter, Instagram, Youtube, Amazon, Aliexpress, Discord, AT&T, Grammarly, Tiktok, Onlyfans, BTC, accounts even Porn Accounts and lots of public IP informations, Patient Recordsand many many more…
 
 
 
