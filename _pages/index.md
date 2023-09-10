@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-# whoami - Berk Can Geyikçi
+# whoami - Berk Can Geyikci
 <head><meta name="google-site-verification" content="niviqyVs9FcPS97Y43BZWJGIXOWLRKfnGFa_U6klJSA" /></head>
-<img align="right" style="margin:20px" width="391px" height="391px" src="https://avatars.githubusercontent.com/u/31792851?v=4">
+<img align="right" style="margin:20px" width="500px" height="400px" src="https://raw.githubusercontent.com/br33z3/br33z3.github.io/main/assets/images/pp.jpg?token=GHSAT0AAAAAACHIDACLE3ZKI2X2T2QX7CYMZH6H22Q">
 <p>
-3+ year experienced offensive cyber security specialist. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries. After that, Berk worked in Turkey's biggest ISP company called Turk Telecom A.S.  
+4+ year experienced offensive cyber security specialist. At his first job, worked 2 years on Barikat Cyber Security Turkey as consultant. In this time period, involved with 100 different on-field or remote security projects to the both multinational and domestic companies belong to various industries. After that, Berk worked in Turkey's biggest ISP company called Turk Telecom A.S.  
 </p>
 <p>
-Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 30</strong>.
-Currently, he is a full-time consultant and working as a bounty hunter in Synack Red Team. Berk also member of the Cobalt Core Team.
+Berk was selected to speak under the topic of <strong>Finding Hidden Gems in Temporary Mail Services</strong> in Recon Village at <strong>DEFCON 31</strong>.
+Currently, he is a full-time consultant at Secarma Ltd. Berk also Core Member in Cobalt.io and Red Team Member in Synack Red Team.
 </p>
 <br /><br /><br /><br />
 
