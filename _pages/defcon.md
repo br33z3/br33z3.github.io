@@ -37,5 +37,14 @@ According to these services, incoming mails are said to be safe because they pas
 **Public Accessibility:**
 Many temporary mail services reveal inboxes to the public. This means that anyone can access all the emails that have been received by that inbox. While this feature provides ease of access, it also poses significant privacy risks if sensitive information is sent to the address. 
 
+##Story Behind This Topic
+
+While using a temp mail service for a silly application at a regular time,
+I noticed that someone had linked an account from a shopping site to it.
+After resetting the password and accessing the account, 
+I realized there was money in it and active purchases were being made. 
+Then I wondered if such things were common and realized there were tons of similar situations.
+Then I want to dig deep about the situation and started my research.
+
 
 
