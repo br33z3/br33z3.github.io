@@ -60,7 +60,7 @@ Spotify, Netflix, Facebook, Twitter, Instagram, Youtube, Amazon, Aliexpress, Dis
 
 While conducting my research, I noticed marketing emails from numerous Viagra sellers and dating apps. Additionally, there were emails from pornographic sites.
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab)><br />
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)<br />
 
 Also, in pornographic emails, the IP address from which a user logged in can be leaked.<br /><br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcf3df31-796f-4ba9-8062-b82327bca95c)
@@ -70,27 +70,29 @@ So I hope that the users who use Temp Mail Services in their private life also u
 ## Examples
 
 Spotify and Steam Account Example<br /><br />
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/77f640e6-fb5e-43fb-aec8-f6ec3223e8cf)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/77f640e6-fb5e-43fb-aec8-f6ec3223e8cf)<br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/2c7e7fcd-8ad9-4255-93df-301798ea00cc)
 
 Random Example. Dance Class Training Application.<br /><br />
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/faafe1c4-1858-43bf-834d-7efad56beff5)
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/45087750-5f36-4882-ae45-5e497e4a7a72)
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/afec4157-2f13-40fb-948d-37f22f2e8836)
-
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/faafe1c4-1858-43bf-834d-7efad56beff5)<br />
 
 I just saw an email inside YOPMail and its about Dance Class Training, when I reset the password and enter the account, I realized
-Almost everyone who has an account inside this application use YOPMail.
+Almost everyone who has an account inside this application use YOPMail.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/45087750-5f36-4882-ae45-5e497e4a7a72)<br />
+There is a location about the class, cost information, history about dance class.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/afec4157-2f13-40fb-948d-37f22f2e8836)<br />
+THERE ARE MANY APPLICATION, THAT I HEARD THE NAMES FIRST TIME. AND I BELIEVE ITS increasing day by day.<br />
 
-There is a location about the class, cost information, history about dance class.
+Booking Class information,<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/15bee6cd-aa45-4ff8-a6fe-d176a781624b)<br />
 
-THERE ARE MANY APPLICATION, THAT I HEARD THE NAMES FIRST TIME. AND I BELIEVE ITS increasing day by day.
+Studio information,<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/3e284c46-ae58-4987-ac17-fb37a258e3a6)<br />
 
-Booking Class information,
+Credit Card information. There is a saved credit card inside the account<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/929cadab-5604-4026-af93-e1ba2323cd65)<br />
 
-Studio information,
 
-Credit Card information. There is a saved credit card inside the account
 Another examples about Kanoopayy, Temu accounts..
 Also as you can see someone uses kanopays, and inside the mail they inform the user about cash card reserve account.
 
