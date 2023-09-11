@@ -59,8 +59,8 @@ In my research, I realized that people use these e-mail addresses as business e-
 Spotify, Netflix, Facebook, Twitter, Instagram, Youtube, Amazon, Aliexpress, Discord, AT&T, Grammarly, Tiktok, Onlyfans, BTC, accounts even Porn Accounts and lots of public IP informations, Patient Recordsand many many more…
 
 While conducting my research, I noticed marketing emails from numerous Viagra sellers and dating apps. Additionally, there were emails from pornographic sites.
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab)> <br />
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)> <br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab) <br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904) <br />
 
 Also, in pornographic emails, the IP address from which a user logged in can be leaked.<br /><br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcf3df31-796f-4ba9-8062-b82327bca95c)
@@ -94,6 +94,9 @@ Credit Card information. There is a saved credit card inside the account<br />
 
 
 Another examples about Kanoopayy, Temu accounts..
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/a06aa0d9-3862-468d-b48c-a44c15878683)
+
+
 Also as you can see someone uses kanopays, and inside the mail they inform the user about cash card reserve account.
 
 And temu is a shopping website.
