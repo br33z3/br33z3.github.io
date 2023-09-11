@@ -257,9 +257,11 @@ In today's world, every piece of information is invaluable.
 
 The softwares used by blue teams and cyber intelligence units for gathering information has now become highly advanced.
 
-If your password has been leaked on any darkweb site or a public hacker forum, websites notify you immediately and advise you to change your password.
+If your password has been leaked on any darkweb site or a public hacker forum, websites notify you immediately and advise you to change your password.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/5ebce285-7883-4c0c-988b-2194bf3dab0a)<br />
 
-Some websites even change your password without taking  confirmation to a randomly generated one and then inform you about the situation to prevent any unauthorized usage.
+Some websites even change your password without taking  confirmation to a randomly generated one and then inform you about the situation to prevent any unauthorized usage.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/fc2af629-4097-4235-8eca-387f36d88747)<br />
 
 And I believe that in the near future these intelligence software programs will add a modules about these temporary mail services.
 
