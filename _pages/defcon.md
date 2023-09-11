@@ -206,8 +206,109 @@ I wrote a python script that automatically crawl temporary mail services.
 
 A fully customizable config. For instance, consider a company named ACME Limited. This company can continuously crawl these email services. The only thing they need to do is add their company name to the config.json file. My tool will then alert the company if any emails related to them appear in public inboxes.
 
+Keywords field for GREPPING OPTION
+
+Tokens for notification.
+TOOL USAGE
+
+Now, I will tell you about a very enjoyable and beautiful example  I encountered regarding my topic.
+
+Just another day with Temp Mail Reconning and TempMailSpy found an invoice.
+
+While I inspect the invoice…
+
+I found a little icon that called phpdebugger, and after I clicked that button debugging page opened.
+
+As you can see email is blabla@yopmail.com, thats why my Script found that invoice. 
+
+And as you can see there is a endpoint here ends with /login
+
+And I did more recon, I found /admin endpoint.
+
+And in the /admin endpoint with phpdebugger I found the email and password data and also the email is still yopmail.
+
+So can you believe that there is an admin account registered with temporary mail.
+
+I tried to login with the credentials that I found
+
+Application asked OTP from me.
+Then I realised I owned the email address inbox because its public
+
+This inbox is public but the first name is specific thats why you can see there is only an OTP request from that admin page nothing more…
+
+I successfully logged in to the admin page
+
+More temp mail addresses.
+
+So this company is use %95 percent public temp mail  addresses.
+
+Even Business Accounts have TempMail Addressses. Business Accounts equals client accounts
+
+Got the server informations
+
+Access to the Database.
+
+Full Access to mail and company users information.
+
+Important documents include worker names, security numbers, ID numbers, employee names etc
+
+Government level documents
+
+MORE AND MORE BUT THERE IS NOT TIME SO I DIDN’T ADD ALL OF THE DOCUMENTS TO MY SLIDE
+
+Inside the customer accounts There is Money and also invoices, sales customer information…
+
+And somehow I able to get a shell from that company.
+
+Important Note: The relevant vulnerability has been reported to the company and has been remedied. During the research, no actions were taken that would harm the company's servers or disrupt their operations.
+
+More than 16 application
+
+Each application has a different database and environmental informations.
+Mail username
+Mail password
+Ssl cert private key
+Jwt secret
+
+NAMES EMAILS PASSWORDS
+
+Also I found another admin account from the database to login different website.
 
 
+More yopMAil accounts that use applications. 
+
+Logged different applications.
+
+
+
+Cracked a lots of passwords. Loggedin more applications.
+
+
+More important informations.
+
+
+Company Mail Accounts
+
+With the password and username information entered more company email accounts
+
+
+Payments informations including secrets API keys, everything for getting and sending payment. And All of them is live data.
+
+
+
+More Account informations
+
+
+More hash cracking
+
+
+More Yopmail Accounts
+
+
+
+- At the end of the day, with this research of mine, I obtained hundreds of personal accounts, shopping accounts with money inside, patient informations, IP details, premium accounts, company informations, company accounts, compromised company email accounts, credit card informations, dozens of web applications, numerous databases containing live data, private and confidential API keys, passwords, government documents, email correspondences, secret payment system APIs, company bank accounts, SMS sending APIs, invoices, customer accounts with money in them, and many more things like these. However, in order to keep up with time, I couldn't put most of these into the presentation.
+
+- While conducting this research, my IP addresses were banned multiple times by temporary mail services. Therefore, unfortunately, I had to continue my research using a VPN. Additionally, yopMail didn't use captcha for email display in the past, and I had shaped my tool accordingly. However, now I had to rewrite my tool in a different way because of this change. Also I’ll add proxy module soon for bypass rate limiting issues.
 
 
 
