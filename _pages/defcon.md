@@ -62,17 +62,22 @@ While conducting my research, I noticed marketing emails from numerous Viagra se
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab)
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)
 
-Also, in pornographic emails, the IP address from which a user logged in can be leaked.<br />
+Also, in pornographic emails, the IP address from which a user logged in can be leaked.<br /><br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcf3df31-796f-4ba9-8062-b82327bca95c)
 
 So I hope that the users who use Temp Mail Services in their private life also use VPNs.
 
 ## Examples
 
-Spotify and Steam Account Example
+Spotify and Steam Account Example<br /><br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/77f640e6-fb5e-43fb-aec8-f6ec3223e8cf)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/2c7e7fcd-8ad9-4255-93df-301798ea00cc)
 
+Random Example. Dance Class Training Application.<br /><br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/faafe1c4-1858-43bf-834d-7efad56beff5)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/45087750-5f36-4882-ae45-5e497e4a7a72)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/afec4157-2f13-40fb-948d-37f22f2e8836)
 
-Random Example. Dance Class Training Application.
 
 I just saw an email inside YOPMail and its about Dance Class Training, when I reset the password and enter the account, I realized
 Almost everyone who has an account inside this application use YOPMail.
