@@ -134,27 +134,41 @@ CANDIDATE NAMES, ORDER NUMBERS,<br />
 
 I didnt want to censor this information because its already accessible from temp mail services.
 
+There is More...<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/b65f24ac-d685-4848-a7c2-81d8c4ac32aa)<br />
 
-There is More...
 
-AND MORE
+AND MORE<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/59028374-2241-4738-8154-c83596c737d4)<br />
 
-Another random account from paxful. Paxful is BTC buying and selling application.
 
-If you want to hunter accounts like this be sure that, don’t takeover account in the beginning of the registiration. Just note the account email address and delete all regarding mails from yopmail after couple minutes later that be sure no one but you know that account other than the owner. And then just wait its up to you maybe a month later or maybe a week later you can takeover that accounts with inside money or BTC.
 
-You can also find OnlyFans accounts that are already subscribed to some onlyfans girls if you're interested.
+
+Another random account from paxful. Paxful is BTC buying and selling application.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/f3b16eb0-c9a0-4095-8cc1-b07e2b297848)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/ca1d0295-4f9b-4ad5-a3c4-e99dda3fce59)<br />
+
+
+If you want to hunter accounts like this be sure that, don’t takeover account in the beginning of the registiration. Just note the account email address and delete all regarding mails from yopmail after couple minutes later that be sure no one but you know that account other than the owner. And then just wait its up to you maybe a month later or maybe a week later you can takeover that accounts with inside money or BTC.<br />
+
+You can also find OnlyFans accounts that are already subscribed to some onlyfans girls if you're interested.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/0a0f3549-9d14-479a-987b-1c92cb626160)<br />
 
 I don't prefer to use Onlyfans :D
 
-Another account.
-Please NOTE THAT the onlyfans girls that are used in this slides are not an ADVERTISEMENT.
+Another account.<br />
+Please NOTE THAT the onlyfans girls that are used in this slides are not an ADVERTISEMENT.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/d10d7ccb-7ebf-4092-b28c-acb2786bb293)<br />
 
-Interesting Invoices.
 
-Someone just bought something and there is invoice
+Interesting Invoices.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/646a9159-01eb-4ac8-a4cd-e2112226d969)<br />
 
-Interesting Invoices.
+Someone just bought something and there is invoice<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/49e57f68-7460-4a76-b7b4-4fe1aed69527)<br />
+
+Interesting Invoices.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/4a2abddc-d918-43a7-8631-cabafa0b4ebc)<br />
 
 
 So you can just send a mail to the owner for social engineering purposes. Because there are many pieces if information leaked here you can use.
@@ -166,7 +180,10 @@ Payment Link. Example Customs Payment Website.
 
 Easy Money.
 
-Example of Social Engineering Email:
+Example of Social Engineering Email:<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/705bc77d-6180-42a5-ab41-916957564e85)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/9facccaa-1940-4103-b4e7-058a991cf92a)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/b4f126f8-2353-4e90-9d35-b738a9a889d2)<br />
 
 
 Include a payment link or a fake customs website; the choice is up to the attacker and depends on the scenario. 
@@ -175,27 +192,37 @@ Alternatively, you can get other information with that type of Social Engineerin
 
 This method is effective because you have all the details about the order. It appears legitimate.
 
-If you are lucky, you can find your perfect match from temporary mail services.
+If you are lucky, you can find your perfect match from temporary mail services.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/4ac12e4e-4a00-4486-9679-53f615df75cc)<br />
 
 IP information everywhere.
-Financial information. Threre is a profit information there.
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/878b7e75-1736-44ca-8e62-9cf9e61a2c31)<br />
+
+
+Financial information. Threre is a profit information there.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/c5d802b4-e021-48d0-89e9-06c103003fbb)<br />
 
 Its about positions, EURO between Canadian dolar.
 
 And as you can see there is a previous ledger balance something like 5k and , available margin decreased to 4k…
 
-Netflix account, but as I said you need to be patient if you want to get good gems.
+Netflix account, but as I said you need to be patient if you want to get good gems.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/6141522a-5975-4856-af63-03d45adf8bb1)<br />
 
 Delete regarding emails and note the mail. Then Takeover account in the future
 
 I dont know, I found a website called bitby, and when I enter its said you have nearly 69 Bitcoin. 
-Wait whaat!
+Wait whaat!<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/20341362-a5d8-40db-88fb-477420162a66)<br />
 
 Probably a fake website but good one.
 
 I’ll be very sorry if its legit btw :D
 
-Continue with accounts, Playstation plus, tiktok accounts.
+Continue with accounts, Playstation plus, tiktok accounts.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/0028e368-2dab-497a-860c-eaa59135bcf1)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/ddd93417-3e0d-4ae1-89f5-0bcad3fd9b6e)<br />
+
 
 There is a Temu order information mail.
 
