@@ -224,21 +224,34 @@ Continue with accounts, Playstation plus, tiktok accounts.<br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/ddd93417-3e0d-4ae1-89f5-0bcad3fd9b6e)<br />
 
 
-There is a Temu order information mail.
+There is a Temu order information mail.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/de2791d5-d6be-4a7d-b0b0-e26e8d8a9db1)<br />
 
-I takeover one of the temu account because its not register mail, its order mail
+I takeover one of the temu account because its not register mail, its order mail<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/7ae67d71-f3b4-4d42-a18a-33c34b12020e)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/54c97f43-4cca-4bc0-aa42-96834530ffeb)<br />
 
-Live account
+Live account<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/3c02e5d8-26e8-44c5-a3dd-3689ec5ccd5b)<br />
 
-Live Order
+Live Order<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/232e9e90-a5eb-4719-9a6c-6d982f88321e)<br />
 
-Credit Card and Address information.
+Credit Card and Address information.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/5cee17c4-2b5b-47e5-af83-170ccd22dc7f)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/6fab3f1d-1dc8-41dc-9182-497d48b27b32)<br />
 
-Here is some information about the emails I've collected.
 
-Most of the emails come from TikTok, Intelliverse, and Supercell. However, as you can see, there are many other applications not listed here, as including them would require numerous slides.
+Here is some information about the emails I've collected.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/ec6e6e41-c5dd-4014-9a86-ef0463fea688)<br />
 
-In summary, you can find all kinds of accounts you want here.
+Most of the emails come from TikTok, Intelliverse, and Supercell. However, as you can see, there are many other applications not listed here, as including them would require numerous slides.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/d086a0de-6a71-411a-a875-f6c6e0f4d925)<br />
+
+In summary, you can find all kinds of accounts you want here.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/6613a14c-8920-4e22-8293-403fa73ffc8e)<br />
+
+
 
 In today's world, every piece of information is invaluable. 
 
