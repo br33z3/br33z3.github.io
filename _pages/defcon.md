@@ -93,21 +93,26 @@ Credit Card information. There is a saved credit card inside the account<br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/929cadab-5604-4026-af93-e1ba2323cd65)<br />
 
 
-Another examples about Kanoopayy, Temu accounts..
-![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/a06aa0d9-3862-468d-b48c-a44c15878683)
-
-
-Also as you can see someone uses kanopays, and inside the mail they inform the user about cash card reserve account.
-
+Another examples about Kanoopayy, Temu accounts..<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/a06aa0d9-3862-468d-b48c-a44c15878683)<br />
+Also as you can see someone uses kanopays, and inside the mail they inform the user about cash card reserve account.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/a3d588f2-c3d6-4ad4-8eae-5bb636aa632e)<br />
 And temu is a shopping website.
 
-Discord account, but when I try to enter this account, it has been set up with MFA.
 
-But I only try once for discord account, so maybe you can find any account without MFA.
+Discord account, but when I try to enter this account, it has been set up with MFA.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/6b81f93c-e352-469e-96b9-005b5bd83f16)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/d923dc84-0b38-4069-add7-e25cf555f521)<br />
+But I only try once for discord account, so maybe you can find any account without MFA.<br />
 
-Instagram Accounts
 
-Just reset the account password via mail, set a new password and login to the account.
+Instagram Accounts<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/2cca2714-cc9c-40bd-932d-8600ba1ff0fd)<br />
+
+
+Just reset the account password via mail, set a new password and login to the account.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/5583f61d-a54f-48f3-9cce-bf446bc4cfc2)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dbe3216c-1c9a-4b64-a64b-96d9b8d6c201)<br />
 
 
 Mail about AT&T prepaid Rate Plan Successully renewed.
