@@ -115,15 +115,22 @@ Just reset the account password via mail, set a new password and login to the ac
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dbe3216c-1c9a-4b64-a64b-96d9b8d6c201)<br />
 
 
-Mail about AT&T prepaid Rate Plan Successully renewed.
+Mail about AT&T prepaid Rate Plan Successully renewed.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/7b2515b1-d6d7-45d9-a0ec-a4399bb03d93)<br />
 
-Also there is a Facebook account as you can see.
+Also there is a Facebook account as you can see.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/f584cd7c-35e6-44ab-92a9-0087a42cdfc4)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/607b5489-2674-45b9-b28f-701c1d4422b4)<br />
 
-Amazon AWS Example
+Amazon AWS Example<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/3728e0d8-702a-430f-8d55-e7cd99de7df2)<br />
 
-Hospital records.
+Hospital records.<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/b7f80264-e108-45f2-bc57-6d0ea5474815)<br />
 
-CANDIDATE NAMES, ORDER NUMBERS,
+CANDIDATE NAMES, ORDER NUMBERS,<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/53b881c5-b7c2-4c1d-8be1-e89d75eeeb31)<br />
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/140eae78-8988-4476-92fa-d8e0d92da032)<br />
 
 I didnt want to censor this information because its already accessible from temp mail services.
 
