@@ -62,7 +62,7 @@ While conducting my research, I noticed marketing emails from numerous Viagra se
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab)
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)
 
-Also, in pornographic emails, the IP address from which a user logged in can be leaked.
+Also, in pornographic emails, the IP address from which a user logged in can be leaked.<br />
 ![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcf3df31-796f-4ba9-8062-b82327bca95c)
 
 So I hope that the users who use Temp Mail Services in their private life also use VPNs.
