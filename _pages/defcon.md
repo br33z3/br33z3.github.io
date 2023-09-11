@@ -59,8 +59,11 @@ In my research, I realized that people use these e-mail addresses as business e-
 Spotify, Netflix, Facebook, Twitter, Instagram, Youtube, Amazon, Aliexpress, Discord, AT&T, Grammarly, Tiktok, Onlyfans, BTC, accounts even Porn Accounts and lots of public IP informations, Patient Recordsand many many more…
 
 While conducting my research, I noticed marketing emails from numerous Viagra sellers and dating apps. Additionally, there were emails from pornographic sites.
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcd2cffb-fce5-4dbb-a76d-85180589daab)
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/93a9adaf-34f4-4acc-a50d-7a96d2c4d904)
 
 Also, in pornographic emails, the IP address from which a user logged in can be leaked.
+![image](https://github.com/br33z3/br33z3.github.io/assets/31792851/dcf3df31-796f-4ba9-8062-b82327bca95c)
 
 So I hope that the users who use Temp Mail Services in their private life also use VPNs.
 
